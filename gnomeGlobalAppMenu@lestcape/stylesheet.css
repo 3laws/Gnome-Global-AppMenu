@@ -1,6 +1,19 @@
+* {
+    font-family: "Ubuntu Light";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;    
+}
+
 .popup-menu-box {
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.popup-menu-item {
+    padding-left: .8em;
+    padding-right: .8em;
+    vertical-align: middle;
 }
 
 .not-ornament {
