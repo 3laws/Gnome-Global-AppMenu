@@ -1,3 +1,11 @@
+Just a fork of this [excellent extension](https://github.com/lestcape/Gnome-Global-AppMenu) that I am using as part of [gnome-layout-manager](https://github.com/bill-mavromatis/gnome-layout-manager). I know that @lestcape is focusing on the functionality of the extension but I just wanted to fix some visual glitches.
+
+Only 2 small changes made:
+1) Fixed some padding issues in stylesheet.css  
+2) Fixed conflict with Pixel Saver (wrong priority) using this [PR](https://github.com/lestcape/Gnome-Global-AppMenu/commit/af3bb76d8f43463540b14fea90aeb8246a41b0b0)
+
+--------------------------------------------------------------------------
+
 Gnome Shell Extension: Gnome Global Application Menu Version: v0.7-Beta
 --------------
 I don't want donations, I work only for users and not for companies or communities that receive money or donations.
